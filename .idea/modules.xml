@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShiGuang.iml" filepath="$PROJECT_DIR$/ShiGuang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShiGuang/ShiGuang-ShiGuang.iml" filepath="$PROJECT_DIR$/ShiGuang/ShiGuang-ShiGuang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils/xutils.iml" filepath="$PROJECT_DIR$/xutils/xutils.iml" />
+    </modules>
+  </component>
+</project>
